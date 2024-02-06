@@ -13,6 +13,6 @@ footer .footer p {
   margin: 0;
 }
 
-footer .footer p > a href {
-  color: red;
+footer .footer a:link {
+    color: red;
 }
